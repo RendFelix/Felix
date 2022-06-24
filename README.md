@@ -13,7 +13,7 @@
 
     ```bash
     # Clone this repository or download
-    $ git clone https://github.com/fajaraldev/happybirthday
+    $ git clone https://github.com/FelixEnd/goodluck
 
     # Go into the repository
     $ cd happybirthday
